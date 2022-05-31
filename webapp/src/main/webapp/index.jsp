@@ -8,11 +8,11 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter New mobile</b></label>
+    <label for="mobile updated"><b>Enter New mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter New Email</b></label>
+    <label for="emailupdated"><b>Enter New Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
