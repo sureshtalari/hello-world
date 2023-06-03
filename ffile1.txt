@@ -4,4 +4,5 @@ this is F3
 f4
 f5
 this isi f4
+this msg for git stash
 
